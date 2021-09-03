@@ -58,6 +58,7 @@
   font-size: 60px;
 }
 
+/* Start query */
 @media screen and (max-height: 450px) {
   .overlay-header a {
     font-size: 20px;
