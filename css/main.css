@@ -128,13 +128,13 @@ main {
   transition: 350ms;
 }
 
-.social-link:hover {
+/*.social-link:hover {
   background-color: rgba(255, 255, 255, 0.096);
 }
 
 .social-icon {
   height: 20px;
-}
+} */
 
 .about-me-section,
 .stacks {
@@ -153,7 +153,7 @@ main {
   padding: 10%;
 }
 
-#projects h2 {
+/* #projects h2 {
   font-family: "Crete Round", serif;
   font-style: normal;
   font-weight: normal;
@@ -162,7 +162,7 @@ main {
   display: flex;
   align-items: center;
   color: #1c1a19;
-}
+} */
 
 #projects hr {
   margin: 25px 0;
@@ -188,7 +188,7 @@ main {
   background: linear-gradient(0deg, #2a2728, #98909280, rgba(255, 255, 255, 0));
   position: absolute;
   top: 0;
-  right: 0;
+  right: 10;
   bottom: 0;
   left: 0;
 }
