@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 
-html {
+/*html {
   scroll-behavior: smooth;
 }
 
@@ -16,7 +16,7 @@ a {
 
 hr {
   width: 80vw;
-}
+} */
 
 header {
   display: flex;
