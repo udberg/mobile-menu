@@ -51,22 +51,21 @@
   margin-right: 8px;
 }
 
-/* .overlay-header .closebtn {
+.overlay-header .closebtn {
   position: absolute;
   top: 20px;
   right: 45px;
   font-size: 60px;
 }
 
-/* Start query */
 @media screen and (max-height: 450px) {
   .overlay-header a {
-    font-size: 0;
+    font-size: 20px;
   }
 
   .overlay-header .closebtn {
     font-size: 40px;
-    top: 0;
+    top: 15px;
     right: 35px;
   }
 }
