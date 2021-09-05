@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 
-/*html {
+/* html {
   scroll-behavior: smooth;
 }
 
@@ -128,7 +128,7 @@ main {
   transition: 350ms;
 }
 
-/*.social-link:hover {
+/* .social-link:hover {
   background-color: rgba(255, 255, 255, 0.096);
 }
 
@@ -188,7 +188,7 @@ main {
   background: linear-gradient(0deg, #2a2728, #98909280, rgba(255, 255, 255, 0));
   position: absolute;
   top: 0;
-  right: 10;
+  right: 0;
   bottom: 0;
   left: 0;
 }
